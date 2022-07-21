@@ -1,0 +1,1 @@
+export { TypographyElement } from "./Typography";
