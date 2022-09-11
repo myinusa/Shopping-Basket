@@ -12,8 +12,6 @@
 
 Visit `http://localhost:3332`
 
-## How the test was completed
-
 ### Design
 The first task was getting the design to match the visual prototype, I opted to go with `Material UI` for UI. Started with the layout using `Box` and `Container` elements, moving on to the main heading, inserting the divider below it. The table and table container were next with the columns and some fake data. Subtotal, VAT and total below the table with a similar design. 
 
